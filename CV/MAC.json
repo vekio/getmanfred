@@ -258,12 +258,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Capacidad de dar feedback",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Pensamiento analítico",
           "type": "practice"
         }
