@@ -359,6 +359,10 @@
           "type": "technology"
         },
         {
+          "name": "Scikit-learn",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
