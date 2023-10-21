@@ -1,0 +1,410 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alberto",
+      "surnames": "Castañeiras Folgueral",
+      "title": "Analista - Programador",
+      "description": "Soy un ingeniero de software con tres años de experiencia en diversos dominios, incluyendo desarrollo de backend, frontend, BI, ETL, entre otros.\n\nQuiero trabajar aplicando las mejores metodologías en el desarrollo de software, enfocándome en la creación de arquitecturas complejas, aprovechando al máximo los recursos ofrecidos por las plataformas en la nube.\n\nMi lenguaje de elección para crear aplicaciones es Python, Go y TypeScript (y JavaScript), y me desenvuelvo en el uso de Docker, así como en la gestión de bases de datos SQL y NoSQL. Me mantengo al tanto de las últimas tecnologías y frameworks, comprometido con el aprendizaje continuo.\n\nMe declaro fan de el mundo open source, al que intento contribuir.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/19/2a228797-4fc6-4dd4-9262-06b9f2b4f305_20200729_193609_785d.jpg",
+        "alt": "20200729_193609_785D28B5.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJM7b3Toy6MA0RYJAjq-FsY9w)",
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Ponferrada"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alberto-casta%C3%B1eiras/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/vekio"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Mercanza"
+        },
+        "roles": [
+          {
+            "name": "Analista-Programador",
+            "startDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Diseño y desarrollo de aplicaciones analíticas utilizando Qlik.\nDiseño y desarrollo de aplicaciones full stack (Angular, C#, VB.net, Node.js).\nGuiar a programadores junior a través de mentoría."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mercanza"
+        },
+        "roles": [
+          {
+            "name": "Programador Sénior",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Diseño y desarrollo de aplicaciones analíticas utilizando Qlik.\nDiseño y desarrollo de aplicaciones full stack (Angular, C#, VB.net, Node.js)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mercanza"
+        },
+        "roles": [
+          {
+            "name": "Programador Júnior",
+            "startDate": "2020-09-01",
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones analíticas utilizando Qlik."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Qlik",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de dar feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/alberto-casta%C3%B1eiras/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/vekio",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "alberto@casta.me"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "636666392",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Arduino",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Qlik",
+          "type": "technology"
+        },
+        {
+          "name": "Raspberry",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Apple iOS",
+          "type": "technology"
+        },
+        {
+          "name": "Apple macOS",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Prolog",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Analysis & BI",
+        "Data Scientist",
+        "DevOps & Infrastructure & SRE",
+        "Full-stack Developer",
+        "Software Architect"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Gitflow",
+        "type": "technology"
+      },
+      {
+        "name": "Golang",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Qlik",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal sería trabajar en un equipo donde haya pasión por el buen software, aprendizaje continuo e interés por probar nuevas herramientas y compartirlo\nTambién me parece importante trabajar con profesionales referentes y tener una buena mentorización para crecer.\nMe interesa trabajar en una empresa que desarrolle su propio producto antes que en una empresa de servicios donde tenga trato directo con el cliente."
+  }
+}
