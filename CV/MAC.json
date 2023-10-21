@@ -63,6 +63,40 @@
               {
                 "description": "Diseño y desarrollo de aplicaciones analíticas utilizando Qlik.\nDiseño y desarrollo de aplicaciones full stack (Angular, C#, VB.net, Node.js)."
               }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Qlik",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
             ]
           }
         ]
