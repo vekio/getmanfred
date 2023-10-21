@@ -83,10 +83,6 @@
             ],
             "competences": [
               {
-                "name": "ASP.net",
-                "type": "technology"
-              },
-              {
                 "name": "AngularJS",
                 "type": "technology"
               },
