@@ -343,6 +343,10 @@
           "type": "technology"
         },
         {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
           "name": "Go",
           "type": "technology"
         },
