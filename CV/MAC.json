@@ -327,10 +327,6 @@
           "type": "technology"
         },
         {
-          "name": "Arduino",
-          "type": "technology"
-        },
-        {
           "name": "Azure",
           "type": "technology"
         },
@@ -360,10 +356,6 @@
         },
         {
           "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "Raspberry",
           "type": "technology"
         },
         {
