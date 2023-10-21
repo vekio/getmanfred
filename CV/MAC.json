@@ -208,6 +208,12 @@
       },
       {
         "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
@@ -221,6 +227,12 @@
       {
         "skill": {
           "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
           "type": "technology"
         }
       },
