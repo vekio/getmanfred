@@ -53,6 +53,10 @@
                 "type": "technology"
               },
               {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
                 "name": "Angular2+",
                 "type": "technology"
               },
@@ -70,6 +74,14 @@
               },
               {
                 "name": "Qlik",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
                 "type": "technology"
               }
             ]
