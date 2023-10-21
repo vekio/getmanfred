@@ -387,6 +387,10 @@
           "type": "technology"
         },
         {
+          "name": "PyTorch",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
