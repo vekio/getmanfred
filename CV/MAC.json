@@ -343,6 +343,10 @@
           "type": "technology"
         },
         {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
           "name": "Go",
           "type": "technology"
         },
