@@ -75,10 +75,24 @@
           {
             "name": "Programador",
             "startDate": "2020-09-01",
-            "finishDate": "2021-09-01",
+            "finishDate": "2021-06-01",
             "challenges": [
               {
                 "description": "Desarrollo de aplicaciones analíticas utilizando Qlik."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Qlik",
+                "type": "technology"
               }
             ]
           }
