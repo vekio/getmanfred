@@ -286,6 +286,12 @@
       },
       {
         "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
