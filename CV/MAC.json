@@ -501,6 +501,10 @@
           "type": "technology"
         },
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
