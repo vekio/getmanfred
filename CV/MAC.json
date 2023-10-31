@@ -182,6 +182,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
@@ -510,6 +516,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
@@ -523,10 +533,6 @@
       },
       {
         "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "Qlik",
         "type": "technology"
       }
     ],
