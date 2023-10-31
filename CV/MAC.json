@@ -475,10 +475,6 @@
           "type": "technology"
         },
         {
-          "name": "Scikit-learn",
-          "type": "technology"
-        },
-        {
           "name": "TensorFlow",
           "type": "technology"
         },
