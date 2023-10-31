@@ -194,12 +194,6 @@
       },
       {
         "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
