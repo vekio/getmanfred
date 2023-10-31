@@ -342,6 +342,22 @@
             "alt": "logo.png"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniría de Telecomunicaciones",
+        "startDate": "2012-09-01",
+        "institution": {
+          "name": "Universidad de Valladolid",
+          "description": "Estudios en Grado en Ingeniría de Telecomunicaciones. (No finalizados)",
+          "URL": "https://www.tel.uva.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/6d237214-72a0-4eaa-83f8-5a2b5087bd7a_pbs.jpg",
+            "alt": "pbs.twimg.com_profile_images_888293592393019392_cIqrQ8t-_400x400.jpg"
+          }
+        },
+        "finishDate": "2015-07-01"
       }
     ],
     "softSkills": [
