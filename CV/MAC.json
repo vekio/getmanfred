@@ -327,6 +327,23 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Grado en Ingeniería Informática",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Universidad de Valladolid",
+          "description": "Carrera universitaria en la Universidad de Valladolid donde desarrollé sólidos conocimientos en modelos y herramientas para el diseño y el desarrollo del software.\nActualmente desarrollando el TFG.",
+          "URL": "https://www.inf.uva.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/46808bde-57f3-424b-92a5-110a49b8effd_logo.png",
+            "alt": "logo.png"
+          }
+        }
+      }
+    ],
     "softSkills": [
       {
         "skill": {
