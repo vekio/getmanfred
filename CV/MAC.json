@@ -302,6 +302,18 @@
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
           "type": "technology"
         }
@@ -369,6 +381,12 @@
       {
         "skill": {
           "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       },
