@@ -500,6 +500,10 @@
           "type": "technology"
         },
         {
+          "name": "Cobol",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
@@ -510,7 +514,6 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Data Analyst & BI",
         "Full-stack Developer"
       ]
     },
