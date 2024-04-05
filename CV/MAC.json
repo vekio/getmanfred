@@ -8,11 +8,11 @@
     "profile": {
       "name": "Alberto",
       "surnames": "Castañeiras",
-      "title": "Full-Stack Software Developer",
+      "title": "Full-Stack Software Developer | BI | Data Analyst",
       "description": "Ingeniero informático con tres años de experiencia en diversos dominios, incluyendo desarrollo de backend, frontend, modelado de datos, BI, ETL, entre otros.\n\nProfesionalmente me he formando en .NET, Angular2+ y Qlik. Pero mi pasión es el desarrollo con Python (FastAPI, Flask, Pytest), Go y Vue, también me desenvuelvo en el uso de Docker, así como en bases de datos SQL y NoSQL (MongoDB). Me mantengo al tanto de las últimas tecnologías y frameworks, comprometido con el aprendizaje continuo.\n\nMe declaro fan de el mundo open source, al que intento contribuir.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/22/d87a2a12-3dd4-4641-9a50-58bf198e42c4_linkedin-photo-37572.linkedin-photo-37572",
-        "alt": "24/01/22/d87a2a12-3dd4-4641-9a50-58bf198e42c4_linkedin-photo-37572.linkedin-photo-37572"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/05/cd2e4a45-9bdb-459c-bfe6-ea90b6938fcd_linkedin-photo-37572.linkedin-photo-37572",
+        "alt": "24/04/05/cd2e4a45-9bdb-459c-bfe6-ea90b6938fcd_linkedin-photo-37572.linkedin-photo-37572"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJM7b3Toy6MA0RYJAjq-FsY9w)",
@@ -29,88 +29,6 @@
       {
         "type": "github",
         "URL": "https://github.com/vekio"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "NTT DATA Europe & Latam",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/22/53ff32ba-96a5-4dde-8c26-bedc94c08b86_linkedin-photo-37572.linkedin-photo-37572",
-            "alt": "24/01/22/53ff32ba-96a5-4dde-8c26-bedc94c08b86_linkedin-photo-37572.linkedin-photo-37572"
-          }
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2023-12-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "MERCANZA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/22/8cfb667f-2d7b-4a95-8ddc-873ee569be16_linkedin-photo-37572.linkedin-photo-37572",
-            "alt": "24/01/22/8cfb667f-2d7b-4a95-8ddc-873ee569be16_linkedin-photo-37572.linkedin-photo-37572"
-          }
-        },
-        "roles": [
-          {
-            "name": "Analista Programador",
-            "startDate": "2022-12-01",
-            "finishDate": "2023-12-31",
-            "challenges": [
-              {
-                "description": "Diseño y desarrollo de aplicaciones analíticas utilizando Qlik.\nDiseño y desarrollo de aplicaciones full stack (Angular, C#, VB.net, Node.js).\nGuiar a programadores junior a través de mentoría."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "MERCANZA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/22/fdaf582f-9e1d-4422-a3e5-0a04ffbbc398_linkedin-photo-37572.linkedin-photo-37572",
-            "alt": "24/01/22/fdaf582f-9e1d-4422-a3e5-0a04ffbbc398_linkedin-photo-37572.linkedin-photo-37572"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador sénior",
-            "startDate": "2021-07-01",
-            "finishDate": "2022-12-31",
-            "challenges": [
-              {
-                "description": "Diseño y desarrollo de aplicaciones analíticas utilizando Qlik.\nDiseño y desarrollo de aplicaciones full stack (Angular, C#, VB.net, Node.js)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "MERCANZA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/22/642688b4-0503-4a4f-8386-d7ac4e8e84bc_linkedin-photo-37572.linkedin-photo-37572",
-            "alt": "24/01/22/642688b4-0503-4a4f-8386-d7ac4e8e84bc_linkedin-photo-37572.linkedin-photo-37572"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2020-09-01",
-            "finishDate": "2021-06-30",
-            "challenges": [
-              {
-                "description": "Desarrollo de aplicaciones analíticas utilizando Qlik."
-              }
-            ]
-          }
-        ]
       }
     ]
   },
