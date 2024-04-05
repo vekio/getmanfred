@@ -220,12 +220,6 @@
       },
       {
         "skill": {
-          "name": "Java",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -316,12 +310,6 @@
       },
       {
         "skill": {
-          "name": "Visual Basic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Visual Studio",
           "type": "technology"
         }
@@ -335,12 +323,6 @@
       {
         "skill": {
           "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
           "type": "technology"
         }
       }
