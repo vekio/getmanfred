@@ -402,10 +402,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": ".NET",
-          "type": "technology"
-        },
-        {
           "name": "AWS",
           "type": "technology"
         },
