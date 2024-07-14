@@ -508,15 +508,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": ".NET",
-        "type": "technology"
-      },
-      {
         "name": "Docker",
         "type": "technology"
       },
       {
         "name": "Fastapi",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
         "type": "technology"
       },
       {
