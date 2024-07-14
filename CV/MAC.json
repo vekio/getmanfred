@@ -422,6 +422,10 @@
           "type": "technology"
         },
         {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
