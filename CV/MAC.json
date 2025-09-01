@@ -153,6 +153,12 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -202,6 +208,12 @@
       {
         "skill": {
           "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
