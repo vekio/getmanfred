@@ -135,13 +135,13 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Azure",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
@@ -153,13 +153,13 @@
       },
       {
         "skill": {
-          "name": "Django",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "ETL",
           "type": "technology"
         }
       },
@@ -183,19 +183,13 @@
       },
       {
         "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Gitflow",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "Github Actions",
           "type": "technology"
         }
       },
@@ -207,13 +201,7 @@
       },
       {
         "skill": {
-          "name": "Golang",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
+          "name": "Grafana",
           "type": "technology"
         }
       },
@@ -225,31 +213,13 @@
       },
       {
         "skill": {
-          "name": "Jupyter",
+          "name": "Jenkins",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
+          "name": "OpenApi",
           "type": "technology"
         }
       },
@@ -267,7 +237,7 @@
       },
       {
         "skill": {
-          "name": "Pytest",
+          "name": "Prometheus",
           "type": "technology"
         }
       },
@@ -291,7 +261,13 @@
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
           "type": "technology"
         }
       },
@@ -309,19 +285,7 @@
       },
       {
         "skill": {
-          "name": "Visual Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
           "type": "technology"
         }
       }
@@ -499,23 +463,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
       {
-        "name": "Fastapi",
-        "type": "technology"
-      },
-      {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
-        "name": "Golang",
-        "type": "technology"
-      },
-      {
-        "name": "Python",
+        "name": "Go",
         "type": "technology"
       }
     ],
