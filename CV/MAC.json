@@ -44,6 +44,20 @@
               {
                 "description": "Skills: Azure DevOps · C# · .NET Core · Microservicios · Microsoft SQL Server · Capacidad de análisis · Desarrollo Full Stack · Angular · JavaScript"
               }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              }
             ]
           }
         ]
