@@ -519,6 +519,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Mi trabajo ideal sería trabajar en un equipo donde haya pasión por el buen software, aprendizaje continuo e interés por probar nuevas herramientas y compartirlo.\n\nTambién me parece importante trabajar con profesionales referentes y tener una buena mentorización para crecer.\n\nMe interesa trabajar en una empresa que desarrolle su propio producto antes que en una empresa de servicios donde tenga trato directo con el cliente."
+    "desiredJobDescription": "Mi trabajo ideal sería trabajar en un equipo donde haya pasión por el buen software, aprendizaje continuo e interés por probar nuevas herramientas y compartirlo.\n\nTambién me parece importante trabajar con profesionales referentes y tener una buena mentorización para crecer.\n\nMe interesa trabajar en una empresa que desarrolle su propio producto antes que en una empresa de servicios donde tenga trato directo con el cliente.",
+    "goodPractices": "I apply concepts from Clean Code and Refactoring, and I strive to write code that is clear, maintainable, scalable, and easy to test. I enjoy using design patterns as a way to bring consistency to architecture and keep things simple as systems grow. They help me build solutions that are understandable, extensible, and sustainable over time.\n\nThat’s why I’ve chosen Go as the language to continue evolving professionally — its clear syntax, minimalist approach, and simplicity-focused design align with the way I think and work.\n\nI also value useful, up-to-date documentation, whether through self-explanatory code or clear written descriptions when needed — always with collaboration and long-term maintenance in mind."
   }
 }
