@@ -489,6 +489,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
         "name": "Angular2+",
         "type": "technology"
       },
