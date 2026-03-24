@@ -245,6 +245,12 @@
       },
       {
         "skill": {
+          "name": "HTMX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Java",
           "type": "technology"
         }
