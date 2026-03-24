@@ -48,7 +48,7 @@
             "startDate": "2023-12-01",
             "challenges": [
               {
-                "description": "Skills: Azure DevOps · C# · .NET Core · Microservicios · Microsoft SQL Server · Capacidad de análisis · Desarrollo Full Stack · Angular · JavaScript"
+                "description": "Participación en la modernización de una plataforma bancaria hacia una arquitectura basada en microservicios.\n\nDiseño e implementación de servicios backend en .NET, exponiendo APIs REST para funcionalidades core del sistema.\n\nColaboración en pipelines de CI/CD en Azure DevOps, permitiendo builds, testing y despliegues automatizados.\n\nTrabajo conjunto con equipos de frontend para la entrega de funcionalidades end-to-end, manteniendo un enfoque backend-first.\n\nContribución a librerías internas y tooling compartido para mejorar la consistencia e integración entre servicios."
               }
             ],
             "competences": [
@@ -61,7 +61,15 @@
                 "type": "technology"
               },
               {
+                "name": "Azure DevOps",
+                "type": "technology"
+              },
+              {
                 "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
                 "type": "technology"
               }
             ]
