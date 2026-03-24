@@ -299,6 +299,12 @@
       },
       {
         "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Terraform",
           "type": "technology"
         }
