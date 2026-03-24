@@ -401,6 +401,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
           "name": "Bash",
           "type": "technology"
         },
