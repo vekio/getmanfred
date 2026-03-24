@@ -397,6 +397,10 @@
           "type": "technology"
         },
         {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
