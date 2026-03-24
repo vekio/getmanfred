@@ -131,6 +131,39 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Homelab",
+          "description": "Infraestructura declarativa para un homelab personal.\n\nIncluye provisión de infraestructura con Terraform, gestión de configuración con Ansible y servicios containerizados con Docker.\n\nGestión de múltiples servicios, reverse proxy (Traefik) e integración con Cloudflare.\n\nUtilizado como entorno real para experimentar con automatización, despliegues y observabilidad."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -443,6 +476,11 @@
       }
     ],
     "desiredJobDescription": "Mi trabajo ideal es aquel en el que pueda asumir la responsabilidad completa de una funcionalidad, desde el diseño del backend hasta su despliegue, trabajando sobre producto real y con impacto en el negocio.\n\nMe motiva formar parte de equipos donde se priorice la calidad del software: código limpio, testing y buenas prácticas no como extras, sino como base del desarrollo. También valoro poder participar en la parte de infraestructura y CI/CD, entendiendo cómo el software se construye, se despliega y evoluciona en producción.\n\nBusco un entorno con autonomía, donde se confíe en los ingenieros y se fomente la mejora continua, el aprendizaje y el intercambio de conocimiento.",
-    "goodPractices": "Aplico buenas prácticas de forma pragmática en el día a día, priorizando escribir código claro, mantenible y bien estructurado, no sólo que funcione. Lo suficientemente claro como para explicarse por sí solo, aunque añado comentarios cuando realmente aportan contexto.\n\nLe doy bastante importancia a los patrones de diseño cuando encajan, para mantener el código ordenado y evitar que crezca de forma caótica. Un buen diseño al final ahorra mucho tiempo y facilita la evolución del sistema.\n\nSuelo trabajar con tests unitarios y de integración. Aún no he trabajado con TDD, pero es algo que me interesa seguir explorando.\n\nIntento seguir aprendiendo de forma continua y mantenerme al día."
+    "goodPractices": "Aplico buenas prácticas de forma pragmática en el día a día, priorizando escribir código claro, mantenible y bien estructurado, no sólo que funcione. Lo suficientemente claro como para explicarse por sí solo, aunque añado comentarios cuando realmente aportan contexto.\n\nLe doy bastante importancia a los patrones de diseño cuando encajan, para mantener el código ordenado y evitar que crezca de forma caótica. Un buen diseño al final ahorra mucho tiempo y facilita la evolución del sistema.\n\nSuelo trabajar con tests unitarios y de integración. Aún no he trabajado con TDD, pero es algo que me interesa seguir explorando.\n\nIntento seguir aprendiendo de forma continua y mantenerme al día.",
+    "projects": [
+      {
+        "name": "Homelab"
+      }
+    ]
   }
 }
