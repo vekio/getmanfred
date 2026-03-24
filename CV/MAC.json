@@ -389,6 +389,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
           "name": "Golang",
           "type": "technology"
         },
