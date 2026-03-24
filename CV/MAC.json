@@ -106,27 +106,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "MERCANZA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/05/209d8173-5c9b-47b9-bcbb-bbc8f6cf7734_linkedin-photo-37572.linkedin-photo-37572",
-            "alt": "24/04/05/209d8173-5c9b-47b9-bcbb-bbc8f6cf7734_linkedin-photo-37572.linkedin-photo-37572"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2020-09-01",
-            "finishDate": "2021-06-30",
-            "challenges": [
-              {
-                "description": "Desarrollo de aplicaciones analíticas utilizando Qlik."
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
