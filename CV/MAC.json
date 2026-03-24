@@ -355,12 +355,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Pensamiento analítico",
           "type": "practice"
         }
