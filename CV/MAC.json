@@ -318,20 +318,6 @@
           }
         },
         "finishDate": "2024-07-31"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Grado en Ingeniería Telecomunicaciones",
-        "startDate": "2012-09-01",
-        "institution": {
-          "name": "Universidad de Valladolid",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/05/850b281d-cc52-4b82-b16f-f11b282fae15_linkedin-photo-37572.linkedin-photo-37572",
-            "alt": "24/04/05/850b281d-cc52-4b82-b16f-f11b282fae15_linkedin-photo-37572.linkedin-photo-37572"
-          }
-        },
-        "finishDate": "2015-07-31"
       }
     ],
     "softSkills": [
