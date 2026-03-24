@@ -389,11 +389,19 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "Fastapi",
           "type": "technology"
         },
         {
           "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
           "type": "technology"
         },
         {
