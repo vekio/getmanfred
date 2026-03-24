@@ -405,6 +405,10 @@
           "type": "technology"
         },
         {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
           "name": "PyTorch",
           "type": "technology"
         },
