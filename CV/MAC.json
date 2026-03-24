@@ -437,10 +437,6 @@
           "type": "technology"
         },
         {
-          "name": "Tailwind",
-          "type": "technology"
-        },
-        {
           "name": "Terraform",
           "type": "technology"
         }
