@@ -167,6 +167,12 @@
       },
       {
         "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C#",
           "type": "technology"
         }
