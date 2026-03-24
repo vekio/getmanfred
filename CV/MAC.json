@@ -8,8 +8,8 @@
     "profile": {
       "name": "Alberto",
       "surnames": "Castañeiras Folgueral",
-      "title": "Software Engineer | .NET & Angular | Evolving into Go & DevOps",
-      "description": "Software engineer with over 5 years of experience in full-stack development and business intelligence, primarily working with technologies such as .NET, Angular, and Qlik. Throughout my career, I have developed both web applications and analytical dashboards in demanding enterprise environments.\n\nI’m currently reorienting my career toward backend development with Go and modern infrastructure practices (DevOps), exploring tools like Docker, Terraform, GitHub Actions, Grafana, Prometheus, and AWS. This transition stems from my passion for building more efficient, scalable, and automated systems, applying best practices and cloud-native technologies.\n\nI consider myself a proactive, curious, and growth-driven professional. I enjoy tackling new technical challenges, learning emerging technologies, and applying clean development practices.",
+      "title": "Backend Developer",
+      "description": "Ingeniero de software especializado en backend, con experiencia construyendo APIs y lógica de negocio.\n\nMás allá del código, me interesa especialmente cómo se comportan los sistemas en entornos reales: despliegues, CI/CD, rendimiento, automatización y observabilidad.\nEn mi tiempo libre mantengo mi propio homelab, donde experimento con servicios self-hosted y herramientas de infraestructura como forma de seguir aprendiendo de manera práctica.\n\nDisfruto trabajando con Go porque encaja con mi forma de entender el software: simplicidad y eficiencia. Actualmente estoy orientando mi carrera hacia el desarrollo backend con Go y hacia entornos de infraestructura y platform engineering, con el objetivo de evolucionar hacia roles de mayor responsabilidad técnica con el tiempo.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/05/49f9429f-5445-4a7e-8348-fea270105376_linkedin-photo-37572.linkedin-photo-37572",
         "alt": "24/04/05/49f9429f-5445-4a7e-8348-fea270105376_linkedin-photo-37572.linkedin-photo-37572"
