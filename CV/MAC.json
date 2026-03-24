@@ -155,6 +155,24 @@
       },
       {
         "skill": {
+          "name": ".NET Entity Framework",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
           "type": "technology"
         }
