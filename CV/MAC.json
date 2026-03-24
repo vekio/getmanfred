@@ -155,18 +155,6 @@
       },
       {
         "skill": {
-          "name": ".NET Entity Framework",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": ".Net Core",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "API",
           "type": "technology"
         }
@@ -185,6 +173,12 @@
       },
       {
         "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
           "type": "technology"
         }
@@ -197,7 +191,13 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Cloudflare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
           "type": "technology"
         }
       },
@@ -239,19 +239,7 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "HTMX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Java",
           "type": "technology"
         }
       },
@@ -263,25 +251,13 @@
       },
       {
         "skill": {
-          "name": "OpenApi",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prometheus",
           "type": "technology"
         }
       },
@@ -299,25 +275,19 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "SQLite",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swagger",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
           "type": "technology"
         }
       },
@@ -330,12 +300,6 @@
       {
         "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -476,6 +440,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
@@ -485,14 +453,6 @@
       },
       {
         "name": "Go",
-        "type": "technology"
-      },
-      {
-        "name": "Linux",
-        "type": "technology"
-      },
-      {
-        "name": "Terraform",
         "type": "technology"
       }
     ],
