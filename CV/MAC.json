@@ -413,6 +413,10 @@
           "type": "technology"
         },
         {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
@@ -423,15 +427,7 @@
           "type": "technology"
         },
         {
-          "name": "Apple macOS",
-          "type": "technology"
-        },
-        {
           "name": "CSS",
-          "type": "technology"
-        },
-        {
-          "name": "Cobol",
           "type": "technology"
         },
         {
