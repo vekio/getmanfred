@@ -155,13 +155,13 @@
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "Ansible",
           "type": "technology"
         }
       },
@@ -180,12 +180,6 @@
       {
         "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ETL",
           "type": "technology"
         }
       },
@@ -215,19 +209,7 @@
       },
       {
         "skill": {
-          "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Go",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
           "type": "technology"
         }
       },
@@ -245,7 +227,13 @@
       },
       {
         "skill": {
-          "name": "Jenkins",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
           "type": "technology"
         }
       },
@@ -318,6 +306,12 @@
       {
         "skill": {
           "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -451,23 +445,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": ".NET",
-        "type": "technology"
-      },
-      {
-        "name": "Angular2+",
-        "type": "technology"
-      },
-      {
-        "name": "C#",
-        "type": "technology"
-      },
-      {
         "name": "Docker",
         "type": "technology"
       },
       {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
         "name": "Go",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
         "type": "technology"
       }
     ],
