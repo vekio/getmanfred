@@ -72,27 +72,6 @@
         "organization": {
           "name": "MERCANZA",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/05/8efab5cf-eb43-4c40-bb3d-1dc71d7e0658_linkedin-photo-37572.linkedin-photo-37572",
-            "alt": "24/04/05/8efab5cf-eb43-4c40-bb3d-1dc71d7e0658_linkedin-photo-37572.linkedin-photo-37572"
-          }
-        },
-        "roles": [
-          {
-            "name": "Programador sénior",
-            "startDate": "2021-07-01",
-            "finishDate": "2022-12-31",
-            "challenges": [
-              {
-                "description": "Diseño y desarrollo de aplicaciones analíticas utilizando Qlik.\nDiseño y desarrollo de aplicaciones full stack (Angular, C#, VB.net, Node.js)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "MERCANZA",
-          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/05/05a4e01d-0a64-4e2f-b398-656f5f9efffe_linkedin-photo-37572.linkedin-photo-37572",
             "alt": "24/04/05/05a4e01d-0a64-4e2f-b398-656f5f9efffe_linkedin-photo-37572.linkedin-photo-37572"
           }
