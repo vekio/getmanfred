@@ -396,6 +396,9 @@
           "URL": "https://github.com/vekio",
           "type": "github"
         }
+      ],
+      "contactMails": [
+        "alberto@vekio.dev"
       ]
     },
     "preferences": {
