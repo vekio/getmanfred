@@ -364,6 +364,12 @@
           "name": "Proactividad",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Visión crítica",
+          "type": "practice"
+        }
       }
     ]
   },
