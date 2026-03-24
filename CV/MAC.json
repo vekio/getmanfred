@@ -387,40 +387,6 @@
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "Bash",
-          "type": "technology"
-        },
-        {
-          "name": "Docker",
-          "type": "technology"
-        },
-        {
-          "name": "Fastapi",
-          "type": "technology"
-        },
-        {
-          "name": "Golang",
-          "type": "technology"
-        },
-        {
-          "name": "Nuxt.js",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "Tailwind",
-          "type": "technology"
-        },
-        {
-          "name": "Vue",
-          "type": "technology"
-        }
-      ],
       "discardedCompetences": [
         {
           "name": "AngularJS",
