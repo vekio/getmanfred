@@ -389,6 +389,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Elixir",
+          "type": "technology"
+        },
+        {
           "name": "Fastapi",
           "type": "technology"
         },
