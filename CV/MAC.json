@@ -320,12 +320,6 @@
       },
       {
         "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQLServer",
           "type": "technology"
         }
@@ -426,10 +420,6 @@
         },
         {
           "name": "Linux",
-          "type": "technology"
-        },
-        {
-          "name": "Nuxt.js",
           "type": "technology"
         },
         {
