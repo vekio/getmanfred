@@ -389,6 +389,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
@@ -410,6 +414,10 @@
         },
         {
           "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
           "type": "technology"
         }
       ],
