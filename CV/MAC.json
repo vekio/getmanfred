@@ -387,6 +387,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Golang",
+          "type": "technology"
+        }
+      ],
       "discardedCompetences": [
         {
           "name": "AngularJS",
